@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fee554f78d69504e766f38dfe96d1d1e",
+    "revision": "2f016139fdee1ada3e61cfa8b9b004f5",
     "url": "/react-menu-app/index.html"
   },
   {
-    "revision": "17f5c9d79779f5bd95ce",
-    "url": "/react-menu-app/static/css/main.1f350fe3.chunk.css"
+    "revision": "25b328ea444cbde47d54",
+    "url": "/react-menu-app/static/css/main.1387b6c5.chunk.css"
   },
   {
-    "revision": "674b326d0b4114ea9357",
-    "url": "/react-menu-app/static/js/2.bcdee544.chunk.js"
+    "revision": "d48ceef7ffb2e4b79cf8",
+    "url": "/react-menu-app/static/js/2.fd4dba39.chunk.js"
   },
   {
-    "revision": "17f5c9d79779f5bd95ce",
-    "url": "/react-menu-app/static/js/main.8c50c8c0.chunk.js"
+    "revision": "25b328ea444cbde47d54",
+    "url": "/react-menu-app/static/js/main.9435a756.chunk.js"
   },
   {
     "revision": "f5cfa5ade74ad0f09d2f",
     "url": "/react-menu-app/static/js/runtime~main.e84d7fe9.js"
+  },
+  {
+    "revision": "249f4a2f2cd27852e02d95ab516275ac",
+    "url": "/react-menu-app/static/media/empty_plate.249f4a2f.jpg"
   },
   {
     "revision": "77c311f26c77a2be431399d41d49448c",
